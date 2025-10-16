@@ -21,7 +21,7 @@ public class Lesson4 {
         System.out.println(ii);
 
         // форматирование и вывод на экран
-        double temp = 23.53664445363;
+        double temp = 23.53645745763;
         System.out.println(temp);
         System.out.println(String.format("%.2f", temp));
         System.out.printf("%.3f", temp);
